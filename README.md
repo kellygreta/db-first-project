@@ -2,8 +2,7 @@
 my first database project
 
 ## Progettazione e realizzazione dell’applicazione web “gestione di piscine comunali”
-Corso di Basi di Dati e Web 
-**Introduzione** 
+
 **Scopo del lavoro.** Scopo di questo progetto è la realizzazione di una versione semplificata per la gestione di piscine comunali per un comune di medie dimensioni. 
 
 ### Descrizione del dominio applicativo
